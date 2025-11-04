@@ -1,0 +1,30 @@
+# Core Python libraries
+numpy
+pandas
+matplotlib
+tqdm
+seaborn
+scikit-learn
+joblib
+
+# Deep Learning / PyTorch
+torch
+torchvision
+torchaudio
+
+# Image and scientific utilities
+rasterio
+scikit-image
+opencv-python
+Pillow
+
+# Text cleaning and language tools
+pyenchant
+regex
+
+# Misc utilities
+glob2
+
+# Optional: if you use Jupyter for notebooks
+jupyter
+notebook
